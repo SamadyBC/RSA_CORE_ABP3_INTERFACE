@@ -1,3 +1,5 @@
+`timescale 1ns/1ns
+
 module rsa_core #(
     parameter int DATA_WIDTH = 32,
     parameter bit RESET      = 1'b1,
